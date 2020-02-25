@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Protocol</key>
+	<string>sftp</string>
+	<key>Provider</key>
+	<string>iterate GmbH</string>
+	<key>UUID</key>
+	<string>c4e31ff6-85a3-4ce5-96ac-f00f3c42620d</string>
+	<key>Hostname</key>
+	<string>sunlab.cse.lehigh.edu</string>
+	<key>Port</key>
+	<string>22</string>
+	<key>Username</key>
+	<string>mib222</string>
+	<key>Access Timestamp</key>
+	<string>1581525867772</string>
+</dict>
+</plist>
